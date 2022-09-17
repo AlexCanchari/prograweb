@@ -14,10 +14,14 @@
     color: white;
 }
 
+.a10 {
+    padding-left: 10px;
+}
 
 li {
     list-style-type: none;
-
+    padding: 5px;
+    color: white;
 }
 
 li:hover {
