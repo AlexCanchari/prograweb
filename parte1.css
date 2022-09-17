@@ -1,0 +1,32 @@
+.centrar {
+    height: 30%;
+    margin: 200px;
+    padding: 100px;
+    text-align: center;
+    box-sizing: content-box;
+    background-color: white;
+
+
+}
+
+.tamaño {
+    height: 173px;
+}
+
+.a1 {
+    font-size: 19px;
+    font-family: sans-serif;
+}
+
+.a2 {
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(212, 211, 211);
+}
+
+a {
+    font-family: sans-serif;
+}
